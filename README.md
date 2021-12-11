@@ -2,6 +2,9 @@
 
 # DaiOption
 
+
+<a href="algonetwork.github.io/daioption/">DaiOption </a>
+
 <img src="https://github.com/AlgoNetwork/DaiOption/blob/main/s1.png?raw=true">  
 <img src="https://github.com/AlgoNetwork/DaiOption/blob/main/s2.png?raw=true">  
 
@@ -10,4 +13,16 @@ Polygon<br>
 Avalanche<br>
 Fantom<br>
 Binance<br>
-
+<br><br><br>
+###### Option Type:
+Call / Put <br>
+###### Token:
+Which token you use in your option<br>
+###### Strike price:
+The option will exersize with this price.<br>
+###### Stake Amount:
+you stake Token / Dai Amount<br>
+###### Premium:
+Buyer who want take your option will directly pay premium(dai) to you.<br>
+###### Expired days:
+greater than 2 days . Your option will expired after x days. Buyer can exersize your option at that time.<br>

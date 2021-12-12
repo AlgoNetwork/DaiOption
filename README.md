@@ -25,4 +25,4 @@ you stake Token / Dai Amount<br>
 ###### Premium:
 Buyer who want take your option will directly pay premium(dai) to you.<br>
 ###### Expired days:
-greater than 2 days . Your option will expired after x days. Buyer can exersize your option at that time.<br>
+greater than 2 days . Your option will expired after x days. Buyer can exercise your option at that time.<br>

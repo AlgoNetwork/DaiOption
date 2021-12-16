@@ -19,7 +19,7 @@ Call / Put <br>
 ###### Token:
 Which token you use in your option<br>
 ###### Strike price:
-The option will exersize with this price.<br>
+The option will exercise with this price.<br>
 ###### Stake Amount:
 you stake Token / Dai Amount<br>
 ###### Premium:

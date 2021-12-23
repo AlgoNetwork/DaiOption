@@ -14,15 +14,15 @@ Avalanche<br>
 Fantom<br>
 Binance<br>
 <br><br><br>
-###### Option Type:
+### Option Type:
 Call / Put <br>
-###### Token:
+### Token:
 Which token you use in your option<br>
-###### Strike price:
+### Strike price:
 The option will exercise with this price.<br>
-###### Stake Amount:
+### Stake Amount:
 you stake Token / Dai Amount<br>
-###### Premium:
+### Premium:
 Buyer who want take your option will directly pay premium(dai) to you.<br>
-###### Expired days:
+### Expired days:
 greater than 2 days . Your option will expired after x days. Buyer can exercise your option at that time.<br>

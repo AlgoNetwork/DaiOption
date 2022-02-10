@@ -21,7 +21,7 @@ Which token you use in your option<br>
 ### Strike price:
 The option will exercise with this price.<br>
 ### Stake Amount:
-you stake Token / Dai Amount<br>
+your stake Token/Dai Amount<br>
 ### Premium:
 Buyer who want take your option will directly pay premium(dai) to you.<br>
 ### Expired days:
